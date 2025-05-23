@@ -97,7 +97,7 @@ Created a secure REST API endpoint
 
 Listing:
 
- End point :http://localhost:8888/test/wp-json/wp/v2/testimonial/1
+ End point :http://localhost:8888/test/wp-json/wp/v2/testimonial/
  
  Method : GET
  
