@@ -84,23 +84,37 @@ Challenge Areas
 AJAX Form Submission : https://prnt.sc/aq3_w0EWWSj3
 
 Shortcode / Block Support :
-For display Form Short Code :  [testimonial_form]   https://prnt.sc/714VI04SWZdq
-For display Listing Short code :[testimonial_list]  https://prnt.sc/1O7vtpkSSRUB
+
+For display Form Short Code :  [testimonial_form]  
+SS:https://prnt.sc/714VI04SWZdq
+
+For display Listing Short code :[testimonial_list]  
+SS:https://prnt.sc/1O7vtpkSSRUB
+
 
 REST API Endpoint
 Created a secure REST API endpoint 
 
 Listing:
+
  End point :http://localhost:8888/test/wp-json/wp/v2/testimonial/1
+ 
  Method : GET
+ 
  SS: https://prnt.sc/bYvpQDvi46WY
+ 
 
 
 Submit: 
+
  End Point: http://localhost:8888/test/wp-json/custom/v1/testimonials
+ 
  Method : POST
- PARAM : name, content
+ 
+ PARAM : name, content,rating, ,emailID
+ 
  SS:https://prnt.sc/BYqWi8m5MALY
+ 
 
 
 Star Ratings: Added: https://prnt.sc/vblEtoV1lEwo
