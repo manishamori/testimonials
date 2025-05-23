@@ -2,12 +2,14 @@ Plugin Functionaltiy:
 =====================
 
 Form Short Code : [testimonial_form]
+
 Listing Short Code :[testimonial_list] 
 
 Create a basic testimonial system in WordPress using custom post types, custom meta fields, and shortcodes—without using any third-party plugins. 
 Users can submit testimonials via a frontend form, and approved ones are displayed in a Bootstrap carousel.
 
 ================
+
 Requirements:
 ==============
 
